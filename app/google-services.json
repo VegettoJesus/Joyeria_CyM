@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1041603462652",
+    "firebase_url": "https://joyeria-cym-default-rtdb.firebaseio.com",
+    "project_id": "joyeria-cym",
+    "storage_bucket": "joyeria-cym.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041603462652:android:544c617fdb49431485de79",
+        "android_client_info": {
+          "package_name": "com.joyeriacym.joyeria_cym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041603462652-0967fndgh9g9ke5f2tn695uka9kofphf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBogrfz4rWvXfu7zo6gUV8oSWcWn-p9L2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041603462652-0967fndgh9g9ke5f2tn695uka9kofphf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

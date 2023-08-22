@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">joyeriaCyM</string>
+    <string name="back_2">back_2</string>
+    <string name="joyeria_logo">joyeria_logo</string>
+    <string name="buttonMain">ButtonMain</string>
+    <string name="bienvenidos">BIENVENIDOS!</string>
+    <string name="back_3">back_3</string>
+    <string name="joyeria_logo2">joyeria_logo2</string>
+    <string name="email_icono">Email</string>
+    <string name="password">Password</string>
+    <string name="google_icono">TODO</string>
+    <string name="facebook_icono">facebook_icono</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="enlace_nueva_cuenta">¿No tienes una cuenta? Crear una cuenta</string>
+    <string name="back_3_fondo" />
+    <string name="nombres">Nombres</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="dni">DNI</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="celular">Celular</string>
+    <string name="direccion">Dirección</string>
+    <string name="registrarse">Registrarse</string>
+</resources>
