@@ -34,6 +34,8 @@ public class ActivityLoginUsers extends AppCompatActivity {
     }
     private void asignarButtonSesion(){
         buttonIniciarSesion = findViewById(R.id.buttonIniciarSesion);
+        textEmail = findViewById(R.id.textEmail);
+        textPassword = findViewById(R.id.textPassword);
         buttonIniciarSesion.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
